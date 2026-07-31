@@ -1,0 +1,15 @@
+{
+    "productKeys": [
+        "TS21-A11F-2770-05EA-3E86",
+        "TSBQ-D363-A2B0-7D8D-A00D"
+    ],
+    "environmentFingerprint": "v2:A;FF4F524A02;1KWbTA0IAB;JyqwzgkSrK;",
+    "subProduct": "Standard",
+    "product": "Tableau Server",
+    "existingChainId": "686327f5-b625-11f0-864d-0228699e8847",
+    "buildIdentifier": 1754371260000,
+    "version": [
+        "20251",
+        "25"
+    ]
+}
