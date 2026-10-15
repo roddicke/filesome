@@ -1,0 +1,3 @@
+name	credit_quota	used_credits	remaining_credits	level	frequency	start_time	end_time	notify_at	suspend_at	suspend_immediately_at	created_on	owner	comment	notify_users
+DEVAWSRTLDPFTKRM	3000.00	2097.78	902.22	ACCOUNT	YEARLY	2021-10-24 07:42:47.842 +0900		80%,90%	95%	98%	2021-10-24 07:42:47.842 +0900	ACCOUNTADMIN		
+RM_ORGMONITOR	50.00	0.00	50.00	WAREHOUSE	MONTHLY	2021-10-01 09:00:00.000 +0900		85%	95%	98%	2021-10-24 07:42:42.933 +0900	ACCOUNTADMIN		
